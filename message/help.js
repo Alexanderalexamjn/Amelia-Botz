@@ -13,7 +13,7 @@ ${week}, ${calender}
 ⬡ Time : ${timeWib} WIB
 ⬡ Time : ${timeWit} WIT 
 ⬡ Time : ${timeWita} WITA
-⬡ Islamic : ${dateIslamic}
+⬡ owner : ${MUNAVIR}
 ⬡ Hit Today : ${thisHit.toLocaleString()}
 ⬡ Total User : ${JSON.parse(fs.readFileSync('./database/user.json')).length.toLocaleString()}
 ⬡ Total Error : ${JSON.parse(fs.readFileSync('./database/listerror.json')).length}
@@ -525,19 +525,19 @@ ${week}, ${calender}
 *│*
 *╰────────────⦁*
 
-*╭─❲ THANKS TO ❳*
+*╭─❲ OWNER DETAILS ❳*
 *│*
-*│* • Dittaz
-*│* • Nina Kawai
-*│* • Resta Gamteng :v
-*│* • Zeeone Ofc
-*│* • Yudha Perdana
-*│* • Yogi PW
-*│* • Decode Denpa
-*│* • Fernazer
-*│* • X - Dev Team
-*│* • XChillDs & Yuzu
-*│* • Dika Ardnt
+*│*  follow my Instagram 🤗
+*│* • instagram:http://instagram.com/munavir_x__
+*│* • name:ᴍᴜɴᴀᴠɪʀ
+*│* • from: India 
+*│* • age:18
+*│* • bot number:+48 729 753 746
+*│* • sex:male
+*│* • 
+*│* • 
+*│* • 
+*│*
 *│*
 *╰────────────⦁*`
 }
