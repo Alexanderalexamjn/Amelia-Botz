@@ -3,23 +3,23 @@ exports.menu = (dateIslamic, thisHit, listcmdblock, explain, kyun, process, time
 return`*${fake}*
 ${week}, ${calender} 
 
-⬡ Nama : ${pushname}
-⬡ Status : ${isPremium ? '🎫 Premium':'Free'}
-⬡ Limit : ${isPremium ? 'Unlimited' : `${getLimit(senderNumber, limitCount, user)}/${limitCount}`}
-⬡ Saldo : Rp ${getBalance(senderNumber, user).toLocaleString()}
-⬡ Prefix :「  ${thePrefix}  」
-⬡ Mode : ${publik ? "Public" : "Self"}
-⬡ Active : ${kyun(process.uptime())}
-⬡ Time : ${timeWib} WIB
-⬡ Time : ${timeWit} WIT 
-⬡ Time : ${timeWita} WITA
-⬡ owner : ${MUNAVIR}
-⬡ Hit Today : ${thisHit.toLocaleString()}
-⬡ Total User : ${JSON.parse(fs.readFileSync('./database/user.json')).length.toLocaleString()}
-⬡ Total Error : ${JSON.parse(fs.readFileSync('./database/listerror.json')).length}
-⬡ User Banned : ${JSON.parse(fs.readFileSync('./database/banned.json')).length}
-⬡ User Blocked : ${JSON.parse(fs.readFileSync('./database/userblocked.json')).length} 
-⬡ Cmd Blocked : ${JSON.parse(fs.readFileSync('./database/blockcmd.json')).length} 
+📍 ɴᴀᴍᴇ : ${pushname}
+📍 ꜱᴛᴀᴛᴜꜱ : ${isPremium ? '🎫 Premium':'Free'}
+📍 ʟɪᴍɪᴛ : ${isPremium ? 'Unlimited' : `${getLimit(senderNumber, limitCount, user)}/${limitCount}`}
+📍 ꜱᴀʟᴅᴏ : Rp ${getBalance(senderNumber, user).toLocaleString()}
+📍 ᴩʀᴇꜰɪx :「  ${thePrefix}  」
+📍 ᴍᴏᴅᴇ : ${publik ? "Public" : "Self"}
+📍 ᴀᴄᴛɪᴠᴇ : ${kyun(process.uptime())}
+📍 ᴛɪᴍᴇ : ${timeWib} WIB
+📍 ᴛɪᴍᴇ : ${timeWit} WIT 
+📍 ᴛɪᴍᴇ : ${timeWita} WITA
+📍 ᴏᴡɴᴇʀ : ᴍᴜɴᴀᴠɪʀ
+📍 ʜɪᴛᴛᴏᴅᴀy : ${thisHit.toLocaleString()}
+📍 ᴛᴏᴛᴀʟ ᴜꜱᴇʀ : ${JSON.parse(fs.readFileSync('./database/user.json')).length.toLocaleString()}
+📍 ᴛᴏᴛᴀʟ ᴇʀʀᴏʀ : ${JSON.parse(fs.readFileSync('./database/listerror.json')).length}
+📍 ᴜꜱᴇʀ ʙᴀɴɴᴇᴅ : ${JSON.parse(fs.readFileSync('./database/banned.json')).length}
+📍 ᴜꜱᴇʀ ʙʟᴏᴄᴋᴇᴅ : ${JSON.parse(fs.readFileSync('./database/userblocked.json')).length} 
+📍 ᴄᴍᴅ ʙʟᴏᴄᴋᴇᴅ : ${JSON.parse(fs.readFileSync('./database/blockcmd.json')).length} 
 
  *]───── COMMAND ─────[*
 					          ▾
@@ -528,12 +528,12 @@ ${week}, ${calender}
 *╭─❲ OWNER DETAILS ❳*
 *│*
 *│*  follow my Instagram 🤗
-*│* • instagram:http://instagram.com/munavir_x__
-*│* • name:ᴍᴜɴᴀᴠɪʀ
-*│* • from: India 
-*│* • age:18
-*│* • bot number:+48 729 753 746
-*│* • sex:male
+*│* • instagram:http://instagram.com/.munavir._
+*│* • ᴍᴜɴᴀᴠɪʀ
+*│* • http://wa.me/918590822912
+*│* • 
+*│* • 
+*│* • 
 *│* • 
 *│* • 
 *│* • 
