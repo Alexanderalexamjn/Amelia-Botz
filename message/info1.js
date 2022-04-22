@@ -26,7 +26,7 @@ return`
    ᴍᴜɴᴀᴠɪʀ
  
 *▸* OWNER INSTAGRAM
-   http://instagram.com/munavir__x__ 
+   http://instagram.com/.munavir._
    
 `
 }
